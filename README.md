@@ -9,7 +9,7 @@ Allocating 40 bits of memory
 ```bash
 a 40
 ```
-Freeing memory block at addres 12
+Freeing memory block at address 12
 ```bash
 f 12
 ```
